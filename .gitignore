@@ -1,0 +1,7 @@
+# ignorar programas compilados
+*.exe
+
+#ignorar arquivos temporarios
+
+*.o
+*.obj
